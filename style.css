@@ -414,6 +414,10 @@ footer > h1 {
 
 @media screen and (max-width: 768px) {
 
+    * {
+        max-width: 426px;
+    }
+
 
     .navlist {
         list-style-type: none;
